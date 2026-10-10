@@ -1,0 +1,17 @@
+# Unity
+Library/
+Temp/
+Logs/
+Obj/
+Build/
+Builds/
+*.csproj
+*.sln
+*.user
+*.userprefs
+.vs/
+.vsconfig
+WebGL/
+.DS_Store
+Thumbs.db
+Desktop.ini
